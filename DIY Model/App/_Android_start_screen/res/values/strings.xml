@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- start_screen strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="welcome__string">Welcome.</string>
+	<string name="see_your_water_tank_status__string">See your water tankstatus.</string>
+	<string name="itx_tanky_string">ITX Tanky</string>
+</resources>

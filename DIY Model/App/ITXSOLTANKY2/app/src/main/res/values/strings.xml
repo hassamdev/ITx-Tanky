@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ITX-TANKY</string>
+    <string name="informative">INFORMATIVE</string>
+    <string name="life_time">Life Time</string>
+    <string name="total_vol">Total Vol</string>
+    <string name="remaining_vol">Remaining Vol</string>
+    <string name="pump">Pump</string>
+    <string name="_20_litre">20 litre</string>
+    <string name="_10_litre">10 litre</string>
+    <string name="off">Off</string>
+    <string name="_2_days">2 Days</string>
+    <string name="_50_percent">50%</string>
+    <string name="press_button">Press Button</string>
+    <string name="on">ON</string>
+    <string name="edit">Edit</string>
+    <string name="name">Name</string>
+    <string name="tank">Tank</string>
+    <string name="status">Status</string>
+    <string name="filling">Filling</string>
+    <string name="nf">N-F</string>
+    <string name="save">Save</string>
+    <string name="empty_msg">Please enter the required fields.</string>
+    <string name="name_exists_msg">Please enter the unique name of Tank.</string>
+    <string name="neg_val_msg">Please enter the appropriate value.</string>
+    <string name="line_water">Line water</string>
+    <string name="a">Available</string>
+    <string name="na">N-A</string>
+    <string name="E1">Error</string>
+    <string name="cnx_fail">Connection Failed.</string>
+    <string name="retry">Please Retry..</string>
+    <string name="too_much_height">Height must resides between 350 to 30 cm</string>
+    <string name="_litre">litre</string>
+    <string name="valve_msg">Valve Already assigned</string>
+    <string name="pump_on_msg">Already on.</string>
+    <string name="tank_full_msg">Tank full.</string>
+    <string name="valve_not_set_msg">Valve is not Set.</string>
+    <string name="valve_limit">Valve must be 1 to 4</string>
+
+</resources>
